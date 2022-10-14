@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/nairarn/.dotnet/store/|arch|/|tfm|",
+      "/Users/nairarn/.nuget/packages"
+    ]
+  }
+}
